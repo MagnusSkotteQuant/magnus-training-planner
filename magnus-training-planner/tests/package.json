@@ -1,0 +1,6 @@
+{
+  "name": "magnus-planner-tests",
+  "private": true,
+  "scripts": { "test": "cd .. && node --test tests/*.test.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" }
+}
